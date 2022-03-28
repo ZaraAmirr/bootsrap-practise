@@ -1,0 +1,56 @@
+#top{
+    text-shadow: 3px 3px 3px cadetblue;
+    color:cadetblue;
+}
+img{
+    height: 500px;
+    width: auto;
+    float: right;
+}
+a{
+   color: cadetblue;
+}
+
+#Early_life{
+    text-shadow: 3px 3px 3px cadetblue;
+    color:rgb(15, 79, 82);
+}
+#Career{
+    text-shadow: 3px 3px 3px cadetblue;
+    color: rgb(15, 79, 82);
+}
+
+#Debut{
+    text-shadow: 3px 3px 3px cadetblue;
+    color: rgb(15, 79, 82);
+}
+
+p{
+    color: cadetblue;
+}
+
+
+table{
+   
+    border: 2px aquamarine;
+table-layout: auto;
+border-spacing: 20px 20px;
+}
+th{
+    text-shadow: 3px 3px 3px cadetblue;
+    color:rgb(15, 79, 82);
+    
+}
+
+tr{
+    text-shadow: 3px 3px 3px cadetblue;
+    color:rgb(15, 79, 82);
+    
+}
+
+
+
+
+hr{
+    color: blueviolet;
+}
